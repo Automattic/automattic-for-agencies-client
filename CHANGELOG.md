@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Initial commit for the plugin’s infrastructure.
+
+### Changed
+- Updated package dependencies.
