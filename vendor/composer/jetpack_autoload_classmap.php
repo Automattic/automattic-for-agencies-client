@@ -230,6 +230,10 @@ return array(
 		'version' => '2.2.0.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php'
 	),
+	'Automattic\\Jetpack\\Plugin_Deactivation\\Deactivation_Handler' => array(
+		'version' => '0.2.1.0',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugin-deactivation/src/class-deactivation-handler.php'
+	),
 	'Automattic\\Jetpack\\Plugins_Installer' => array(
 		'version' => '0.3.3.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'

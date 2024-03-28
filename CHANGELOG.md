@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- General: add modal displayed when deactivating the plugin.
 - Initial commit for the plugin’s infrastructure.
 
 ### Changed

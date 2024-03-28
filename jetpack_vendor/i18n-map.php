@@ -32,6 +32,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
       'ver' => '0.3.1',
     ),
+    'jetpack-plugin-deactivation' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
+      'ver' => '0.2.1',
+    ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.3.3',
