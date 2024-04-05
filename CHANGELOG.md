@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added connection card
+- Added details about sharing information with Automattic to the connection card.
 - General: add modal displayed when deactivating the plugin.
 - Initial commit for the plugin’s infrastructure.
 - Packages: add version tracking for identity-crisis package.
