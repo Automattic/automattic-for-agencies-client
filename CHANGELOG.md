@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Added connected state content and site disconnection flow.
 - Added connection card
 - Added details about sharing information with Automattic to the connection card.
 - General: add modal displayed when deactivating the plugin.
