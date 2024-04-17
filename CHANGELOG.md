@@ -20,3 +20,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Updated package dependencies.
+
+### Removed
+- Removed the Jetpack-branded header and footer from the plugin.
