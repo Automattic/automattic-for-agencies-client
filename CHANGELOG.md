@@ -23,3 +23,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Removed the Jetpack-branded header and footer from the plugin.
+
+### Fixed
+- Fix post-connection redirect URL.
