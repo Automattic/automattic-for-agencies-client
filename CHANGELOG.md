@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Packages: add version tracking for identity-crisis package.
 
 ### Changed
+- Updated details about sharing data with WordPress.com
 - Updated package dependencies.
 
 ### Removed
