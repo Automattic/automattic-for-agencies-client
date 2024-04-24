@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - Packages: add version tracking for identity-crisis package.
 
 ### Changed
+- General: update WordPress version requirements to WordPress 6.4.
 - Updated details about sharing data with WordPress.com
 - Updated package dependencies.
 
