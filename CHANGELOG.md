@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Added connection card
 - Added details about sharing information with Automattic to the connection card.
 - Added reconnection flow to the A4A client plugin.
+- Add Woocommerce event remove_order_items to Jetpack Sync
 - General: add first version of the plugin's readme and assets.
 - General: add modal displayed when deactivating the plugin.
 - Initial commit for the plugin’s infrastructure.
