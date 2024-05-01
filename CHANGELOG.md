@@ -12,7 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add autotagger and autorelease to composer.json to enable auto-tagging and auto-release actions
 
-## 0.1.0-alpha - 2024-04-30
+## 0.1.0 - 2024-04-30
 ### Added
 - Added connected state content and site disconnection flow. [#36747]
 - Added connection card [#36664]
