@@ -5,9 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.0.1-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
+## [3.0.1] - 2024-04-30
+### Changed
+- Internal updates.
 
 ## [3.0.0] - 2024-04-25
 ### Added
@@ -341,7 +341,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Packages: Introduce a status package
 
-[3.0.1-alpha]: https://github.com/Automattic/jetpack-status/compare/v3.0.0...v3.0.1-alpha
+[3.0.1]: https://github.com/Automattic/jetpack-status/compare/v3.0.0...v3.0.1
 [3.0.0]: https://github.com/Automattic/jetpack-status/compare/v2.2.2...v3.0.0
 [2.2.2]: https://github.com/Automattic/jetpack-status/compare/v2.2.1...v2.2.2
 [2.2.1]: https://github.com/Automattic/jetpack-status/compare/v2.2.0...v2.2.1
