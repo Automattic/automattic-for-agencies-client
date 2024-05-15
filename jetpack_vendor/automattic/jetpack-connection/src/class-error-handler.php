@@ -665,7 +665,7 @@ class Error_Handler {
 	public function generic_admin_notice_error() {
 		// do not add admin notice to the jetpack dashboard.
 		global $pagenow;
-		if ( 'admin.php' === $pagenow || isset( $_GET['page'] ) && 'jetpack' === $_GET['page'] ) { // phpcs:ignore
+		if ( 'admin.php' === $pagenow || isset( $_GET['page'] ) && 'jetpack' === $_GET['page'] ) {
 			return;
 		}
 
