@@ -173,7 +173,7 @@ class Partner_Coupon {
 		// page for all Jetpack plugins and has hardcoded the settings page to be
 		// "jetpack", so we shouldn't need to allow for dynamic/custom values.
 		// phpcs:ignore WordPress.Security.NonceVerification.Recommended
-		if ( ! isset( $_GET['page'] ) || 'jetpack' !== $_GET['page'] ) {
+		if ( ! isset( $_GET['page'] ) || 'jetpack' !== $_GET['page'] ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 			return;
 		}
 

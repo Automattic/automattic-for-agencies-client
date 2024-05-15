@@ -192,7 +192,7 @@ class Plugin_Storage {
 		}
 		// Only attempt to update the option on POST requests.
 		// This will prevent the option from being updated multiple times due to concurrent requests.
-		if ( ! ( isset( $_SERVER['REQUEST_METHOD'] ) && 'POST' === $_SERVER['REQUEST_METHOD'] ) ) {
+		if ( ! ( isset( $_SERVER['REQUEST_METHOD'] ) && 'POST' === $_SERVER['REQUEST_METHOD'] ) ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 			return;
 		}
 

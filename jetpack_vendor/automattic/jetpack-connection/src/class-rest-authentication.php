@@ -108,7 +108,7 @@ class Rest_Authentication {
 			);
 
 			// phpcs:ignore WordPress.Security.NonceVerification.Recommended
-			if ( ! isset( $_GET['_for'] ) || 'jetpack' !== $_GET['_for'] ) {
+			if ( ! isset( $_GET['_for'] ) || 'jetpack' !== $_GET['_for'] ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 				// Nothing to do for this authentication method.
 				return null;
 			}
@@ -132,7 +132,7 @@ class Rest_Authentication {
 			// are known to work with signature verification.  A different method
 			// can be passed to the WP REST API via the '?_method=' parameter if
 			// needed.
-			if ( 'GET' !== $_SERVER['REQUEST_METHOD'] && 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
+			if ( 'GET' !== $_SERVER['REQUEST_METHOD'] && 'POST' !== $_SERVER['REQUEST_METHOD'] ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 				$this->rest_authentication_status = new WP_Error(
 					'rest_invalid_request',
 					__( 'This request method is not supported.', 'jetpack-connection' ),
@@ -140,7 +140,7 @@ class Rest_Authentication {
 				);
 				return null;
 			}
-			if ( 'POST' !== $_SERVER['REQUEST_METHOD'] && ! empty( file_get_contents( 'php://input' ) ) ) {
+			if ( 'POST' !== $_SERVER['REQUEST_METHOD'] && ! empty( file_get_contents( 'php://input' ) ) ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 				$this->rest_authentication_status = new WP_Error(
 					'rest_invalid_request',
 					__( 'This request method does not support body parameters.', 'jetpack-connection' ),

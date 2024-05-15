@@ -70,7 +70,7 @@ class Connection_Notice {
 			return;
 		}
 
-		if ( ! isset( $_REQUEST['action'] ) || 'delete' !== $_REQUEST['action'] ) {
+		if ( ! isset( $_REQUEST['action'] ) || 'delete' !== $_REQUEST['action'] ) { // phpcs:ignore WordPress.Security.ValidatedSanitizedInput -- This is validating.
 			return;
 		}
 
