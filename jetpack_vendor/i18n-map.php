@@ -36,10 +36,6 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
       'ver' => '0.2.1',
     ),
-    'jetpack-plugins-installer' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.3.5',
-    ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '2.16.4-alpha1716208720',
