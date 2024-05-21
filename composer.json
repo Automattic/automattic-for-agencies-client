@@ -11,7 +11,7 @@
 		"automattic/jetpack-connection": "^2.8.3",
 		"automattic/jetpack-identity-crisis": "^0.20.0",
 		"automattic/jetpack-plugin-deactivation": "^0.2.1",
-		"automattic/jetpack-sync": "^2.16.4",
+		"automattic/jetpack-sync": "^2.16.5-alpha",
 		"automattic/jetpack-status": "^3.1.0"
 	},
 	"require-dev": {
