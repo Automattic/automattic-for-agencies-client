@@ -7,11 +7,11 @@
 		"automattic/jetpack-assets": "^2.1.11",
 		"automattic/jetpack-autoloader": "^3.0.8",
 		"automattic/jetpack-composer-plugin": "^2.0.2-alpha",
-		"automattic/jetpack-config": "^2.0.2",
+		"automattic/jetpack-config": "^2.0.3-alpha",
 		"automattic/jetpack-connection": "^2.9.0",
 		"automattic/jetpack-plugin-deactivation": "^0.2.1",
 		"automattic/jetpack-sync": "^3.0.1",
-		"automattic/jetpack-status": "^3.2.2"
+		"automattic/jetpack-status": "^3.2.3-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.1.0",
