@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Connection: Update connection ToS messaging slightly
 - Remove the 'jetpack-identity-crisis' dependency.
+- Updated package dependencies.
 
 ## 0.2.0 - 2024-05-28
 ### Added
