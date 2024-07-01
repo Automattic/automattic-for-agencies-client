@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '2.1.12',
+      'ver' => '2.1.13-alpha1719865356',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '2.11.0',
+      'ver' => '2.11.1-alpha1719865356',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
