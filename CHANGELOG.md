@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
 
+### Fixed
+- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
+
 ## 0.2.1 - 2024-06-12
 ### Changed
 - Dashboard: switch to a smaller and faster dependency (`clsx`) to handle class names. [#37708]
