@@ -10,7 +10,7 @@
 		"automattic/jetpack-config": "^2.0.4",
 		"automattic/jetpack-connection": "^5.1.1-alpha",
 		"automattic/jetpack-plugin-deactivation": "^0.2.2",
-		"automattic/jetpack-sync": "^3.13.1",
+		"automattic/jetpack-sync": "^3.13.2-alpha",
 		"automattic/jetpack-status": "^4.0.2"
 	},
 	"require-dev": {
