@@ -4,18 +4,18 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^3.0.0-alpha",
-		"automattic/jetpack-autoloader": "^4.0.0-alpha",
-		"automattic/jetpack-composer-plugin": "^3.0.0-alpha",
-		"automattic/jetpack-config": "^3.0.0-alpha",
-		"automattic/jetpack-connection": "^6.0.0-alpha",
+		"automattic/jetpack-assets": "^3.0.0",
+		"automattic/jetpack-autoloader": "^4.0.0",
+		"automattic/jetpack-composer-plugin": "^3.0.0",
+		"automattic/jetpack-config": "^3.0.0",
+		"automattic/jetpack-connection": "^6.0.0",
 		"automattic/jetpack-plugin-deactivation": "^0.3.0-alpha",
-		"automattic/jetpack-sync": "^4.0.0-alpha",
-		"automattic/jetpack-status": "^5.0.0-alpha"
+		"automattic/jetpack-sync": "^4.0.0",
+		"automattic/jetpack-status": "^5.0.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^5.0.0-alpha",
+		"automattic/jetpack-changelogger": "^5.0.0",
 		"automattic/wordbless": "0.4.2",
 		"brain/monkey": "2.6.1"
 	},
