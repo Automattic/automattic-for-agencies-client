@@ -6,11 +6,11 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.5.5',
+      'ver' => '0.5.6-alpha1742222219',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.0.11',
+      'ver' => '4.0.12-alpha1742222219',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,15 +18,15 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '6.7.4',
+      'ver' => '6.7.5-alpha1742222219',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
-      'ver' => '0.4.4',
+      'ver' => '0.4.5-alpha1742222219',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
-      'ver' => '0.4.5',
+      'ver' => '0.4.6-alpha1742222219',
     ),
     'jetpack-plugin-deactivation' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
@@ -34,7 +34,7 @@ return array(
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.9.0',
+      'ver' => '4.9.1-alpha1742222219',
     ),
   ),
 );
