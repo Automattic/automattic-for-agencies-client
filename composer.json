@@ -7,11 +7,11 @@
 		"automattic/jetpack-assets": "^4.0.14",
 		"automattic/jetpack-autoloader": "^5.0.5",
 		"automattic/jetpack-composer-plugin": "^4.0.4",
-		"automattic/jetpack-config": "^3.1.0-alpha",
-		"automattic/jetpack-connection": "^6.9.0-alpha",
-		"automattic/jetpack-plugin-deactivation": "^0.3.6-alpha",
+		"automattic/jetpack-config": "^3.1.0",
+		"automattic/jetpack-connection": "^6.9.0",
+		"automattic/jetpack-plugin-deactivation": "^0.3.6",
 		"automattic/jetpack-sync": "^4.9.2",
-		"automattic/jetpack-status": "^5.1.0-alpha"
+		"automattic/jetpack-status": "^5.1.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^3.0.0",
