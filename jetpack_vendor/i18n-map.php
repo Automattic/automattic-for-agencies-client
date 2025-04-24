@@ -6,11 +6,11 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.5.8-alpha1745352378',
+      'ver' => '0.5.8-alpha1745512883',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.0.19-alpha1745352378',
+      'ver' => '4.0.19-alpha1745512883',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,23 +18,23 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '6.11.1-alpha1745436992',
+      'ver' => '6.11.1-alpha1745512883',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
-      'ver' => '0.4.9-alpha1745352378',
+      'ver' => '0.4.9-alpha1745512883',
     ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
-      'ver' => '0.4.8-alpha1745352378',
+      'ver' => '0.4.8-alpha1745512883',
     ),
     'jetpack-plugin-deactivation' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
-      'ver' => '0.3.9',
+      'ver' => '0.3.10-alpha1745512883',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.11.1-alpha1745486636',
+      'ver' => '4.11.1-alpha1745512883',
     ),
   ),
 );
