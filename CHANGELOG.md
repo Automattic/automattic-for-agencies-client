@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Code: Update stylesheets to use hex instead of named colors.
+- Linting: Do additional stylesheet cleanup.
 - Resolved the parsing error that was resulting in a blank page.
 
 ## 0.5.0 - 2025-04-03
