@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Code: First pass of style coding standards.
 - Dashboard: mark external link as external.
+- E2E Tests: Update config file encryption algorithm.
 - jetpack-assets now requires jetpack-status so updating composer lock files.
 - Update package dependencies.
 
