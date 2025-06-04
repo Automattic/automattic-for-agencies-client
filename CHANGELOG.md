@@ -5,25 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.6.0-alpha - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## 0.6.0 - 2025-06-04
 ### Changed
-- Code: First pass of style coding standards.
-- Dashboard: mark external link as external.
-- E2E Tests: Update config file encryption algorithm.
-- jetpack-assets now requires jetpack-status so updating composer lock files.
-- Update package dependencies.
+- Code: First pass of style coding standards. [#42734]
+- Dashboard: Mark external link as external. [#43167]
+- E2E Tests: Update config file encryption algorithm. [#43523]
+- Update package dependencies. [#43071] [#43085] [#43320] [#43326] [#43398] [#43400] [#43425] [#43578] [#43734]
 
 ### Removed
-- General: Update minimum WordPress version to 6.7.
+- General: Update minimum WordPress version to 6.7. [#43192]
 
 ### Fixed
-- Code: Update stylesheets to use hex instead of named colors.
-- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
-- Linting: Do additional stylesheet cleanup.
-- Resolved the parsing error that was resulting in a blank page.
+- Block editor: Fix layout issues with the Media Library modal buttons. [#43035]
+- Code: Update stylesheets to use hex instead of named colors. [#42920]
+- Linting: Do additional stylesheet cleanup. [#43247]
+- Resolve parsing error that was resulting in a blank page. [#43221]
 
 ## 0.5.0 - 2025-04-03
 ### Added
