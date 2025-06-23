@@ -30,7 +30,7 @@ return array(
     ),
     'jetpack-plugin-deactivation' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
-      'ver' => '0.3.12-alpha1750260074',
+      'ver' => '0.3.12',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
