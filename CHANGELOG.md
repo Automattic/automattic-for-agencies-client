@@ -5,16 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## 0.7.2-alpha - unreleased
+## 0.7.3-alpha - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
+## 0.7.2 - 2025-11-20
 ### Added
-- Tested up to WordPress 6.9
+- Tested up to WordPress 6.9. [#45571]
 
 ### Changed
-- Update dependencies.
-- Update package dependencies.
+- Update dependencies. [#45488]
+- Update package dependencies. [#45478] [#45676] [#45756] [#45915] [#45958]
 
 ## 0.7.1 - 2025-10-09
 ### Changed
