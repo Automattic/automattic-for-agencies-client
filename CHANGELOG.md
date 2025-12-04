@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- Ensure proper flags are used with `json_encode()`.
+
 ## 0.7.2 - 2025-11-20
 ### Added
 - Tested up to WordPress 6.9. [#45571]
