@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Removed
+- General: Update minimum WordPress version to 6.8.
+
 ### Fixed
 - Ensure proper flags are used with `json_encode()`.
 
