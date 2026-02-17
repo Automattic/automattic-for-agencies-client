@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.3.24',
+      'ver' => '4.3.25-alpha1771364022',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '7.1.0',
+      'ver' => '7.1.1-alpha1771364022',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
@@ -30,7 +30,7 @@ return array(
     ),
     'jetpack-plugin-deactivation' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugin-deactivation',
-      'ver' => '0.3.25-alpha1770651640',
+      'ver' => '0.3.25-alpha1771364022',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
