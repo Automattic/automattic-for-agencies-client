@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - IDC: Add revalidation for IDCs.
 
 ### Changed
+- Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update package dependencies.
 
 ### Removed
