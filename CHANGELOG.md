@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.8.
 
 ### Fixed
+- Admin Page: Restore border on header component.
 - Ensure proper flags are used with `json_encode()`.
 
 ## 0.7.2 - 2025-11-20
