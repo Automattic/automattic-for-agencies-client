@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
+- Update dependencies.
 - Update package dependencies.
 
 ### Removed
