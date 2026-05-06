@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Changed
+- Components: Use Link from `@wordpress/ui` instead of ExternalLink.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Replace deprecated jetpack-components Spinner with WordPress Core Spinner.
 - Tested up to WordPress 7.0.
