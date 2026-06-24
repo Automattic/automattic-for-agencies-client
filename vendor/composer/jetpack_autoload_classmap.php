@@ -299,7 +299,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php'
 	),
 	'Automattic\\Jetpack\\Plugin_Deactivation\\Deactivation_Handler' => array(
-		'version' => '0.3.29.0-alpha1782155618',
+		'version' => '0.3.29.0',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugin-deactivation/src/class-deactivation-handler.php'
 	),
 	'Automattic\\Jetpack\\Redirect' => array(
