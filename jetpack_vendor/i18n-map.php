@@ -10,7 +10,7 @@ return array(
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '4.4.8',
+      'ver' => '4.4.9-alpha1785192310',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
@@ -36,5 +36,7 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '4.45.2',
     ),
+  ),
+  'paths' => array(
   ),
 );
