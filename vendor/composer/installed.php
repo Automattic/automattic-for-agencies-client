@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-assets' => array(
-            'pretty_version' => '4.4.9-alpha.1785192310',
-            'version' => '4.4.9.0-alpha1785192310',
-            'reference' => '6b78ca727cd472eead15a6dacc213b9d469ef96b',
+            'pretty_version' => '4.4.9-alpha.1785220502',
+            'version' => '4.4.9.0-alpha1785220502',
+            'reference' => 'a990705a4268ef8aecf511a795e5585c7e12a731',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-assets',
             'aliases' => array(),
