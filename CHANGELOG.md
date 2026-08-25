@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.1.
 - Update package dependencies.
 
+### Removed
+- Updated PHP version requirements to PHP 7.4 or newer.
+
 ## 0.9.0 - 2026-08-14
 ### Changed
 - Components: Use Link from `@wordpress/ui` instead of ExternalLink. [#48529]
