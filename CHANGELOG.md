@@ -17,6 +17,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Updated PHP version requirements to PHP 7.4 or newer.
 
+### Fixed
+- Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
+
 ## 0.9.0 - 2026-08-14
 ### Changed
 - Components: Use Link from `@wordpress/ui` instead of ExternalLink. [#48529]
