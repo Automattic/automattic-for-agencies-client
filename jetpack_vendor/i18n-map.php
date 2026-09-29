@@ -6,7 +6,7 @@ return array(
   'packages' => array(
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
-      'ver' => '0.14.2-alpha1790678782',
+      'ver' => '0.14.2',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
@@ -18,7 +18,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '9.8.1-alpha1790694786',
+      'ver' => '9.8.1',
     ),
     'jetpack-ip' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-ip',
