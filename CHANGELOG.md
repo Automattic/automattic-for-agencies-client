@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Added
+- Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
+
 ### Changed
 - General: Update minimum WordPress version to 7.0.
 - Tested up to WordPress 7.1.
