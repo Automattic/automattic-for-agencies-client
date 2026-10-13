@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Fix a stale connection error state that could persist on healthy sites.
+- Connection: Translate the Connectors card's text on sites that don't use English.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 
 ## 0.9.0 - 2026-08-14
