@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 
 ### Changed
+- Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Update package dependencies.
 
 ## 0.10.0 - 2026-10-14
