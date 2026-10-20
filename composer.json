@@ -4,18 +4,18 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-assets": "^5.0.13",
-		"automattic/jetpack-autoloader": "^6.0.1",
-		"automattic/jetpack-composer-plugin": "^5.0.0",
-		"automattic/jetpack-config": "^4.0.0",
-		"automattic/jetpack-connection": "^9.12.1",
+		"automattic/jetpack-assets": "^5.0.14-alpha",
+		"automattic/jetpack-autoloader": "^6.0.2-alpha",
+		"automattic/jetpack-composer-plugin": "^5.0.1-alpha",
+		"automattic/jetpack-config": "^4.0.1-alpha",
+		"automattic/jetpack-connection": "^9.12.2-alpha",
 		"automattic/jetpack-plugin-deactivation": "^0.4.3-alpha",
-		"automattic/jetpack-sync": "^5.4.2",
-		"automattic/jetpack-status": "^7.1.0"
+		"automattic/jetpack-sync": "^5.4.3-alpha",
+		"automattic/jetpack-status": "^7.1.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.11"
+		"automattic/phpunit-select-config": "^1.0.12-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -44,7 +44,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"autorelease": true,
 		"mirror-repo": "Automattic/automattic-for-agencies-client",
 		"release-branch-prefix": "automattic-for-agencies-client",
