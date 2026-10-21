@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Update package dependencies.
 
+### Fixed
+- Connection: Explain why connecting the site failed instead of showing a raw or generic error.
+
 ## 0.10.0 - 2026-10-14
 ### Added
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account. [#53150]
