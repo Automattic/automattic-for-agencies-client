@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
+- Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Update package dependencies.
 
 ### Fixed
