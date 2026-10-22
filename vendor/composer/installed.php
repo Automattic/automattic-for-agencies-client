@@ -146,9 +146,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-sync' => array(
-            'pretty_version' => '5.4.3',
-            'version' => '5.4.3.0',
-            'reference' => '2250da6b0a62e95e92549d148615b714f4b70111',
+            'pretty_version' => '5.4.4-alpha.1792661538',
+            'version' => '5.4.4.0-alpha1792661538',
+            'reference' => 'a3af2203c49afeeabacb970edcad17a03722f21b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-sync',
             'aliases' => array(),
