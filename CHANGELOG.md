@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
+- Connection: Show connection owner names containing characters like & correctly.
 
 ## 0.10.0 - 2026-10-14
 ### Added
