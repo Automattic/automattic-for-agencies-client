@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Connection: Show connection errors on the Connectors card, and keep showing the connection owner when their account connection breaks.
 - Connection: Transfer connection ownership to another connected administrator from the Connectors page.
+- Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
