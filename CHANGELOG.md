@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Show the Automattic symbol without blue: in white on the settings page, and in black on the Connectors screen and in the Users list.
 - Update package dependencies.
+- Update TOS links
 
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
