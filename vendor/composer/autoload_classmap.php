@@ -8,6 +8,7 @@ $baseDir = dirname($vendorDir);
 return array(
     'Automattic\\Jetpack\\A8c_Mc_Stats' => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php',
     'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php',
+    'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php',
     'Automattic\\Jetpack\\Assets' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php',
     'Automattic\\Jetpack\\Assets\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
     'Automattic\\Jetpack\\Assets\\Semver' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-semver.php',
@@ -67,6 +68,7 @@ return array(
     'Automattic\\Jetpack\\Constants' => $baseDir . '/jetpack_vendor/automattic/jetpack-constants/src/class-constants.php',
     'Automattic\\Jetpack\\CookieState' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-cookiestate.php',
     'Automattic\\Jetpack\\Errors' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
+    'Automattic\\Jetpack\\Feature_Flags\\Feature_Flags' => $baseDir . '/jetpack_vendor/automattic/jetpack-feature-flags/src/class-feature-flags.php',
     'Automattic\\Jetpack\\Feature_Policy' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-feature-policy.php',
     'Automattic\\Jetpack\\Files' => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
     'Automattic\\Jetpack\\Heartbeat' => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
