@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Connection: Explain why connecting the site failed instead of showing a raw or generic error.
+- Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
 - Connection: Show connection owner names containing characters like & correctly.
 
