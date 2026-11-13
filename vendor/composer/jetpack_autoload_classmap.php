@@ -23,11 +23,11 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-a8c-mc-stats/src/class-a8c-mc-stats.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
-		'version' => '0.14.15.0-alpha1794585417',
+		'version' => '0.14.15.0-alpha1794591893',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
 	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Shell' => array(
-		'version' => '0.14.15.0-alpha1794585417',
+		'version' => '0.14.15.0-alpha1794591893',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-shell.php'
 	),
 	'Automattic\\Jetpack\\Assets' => array(
@@ -327,7 +327,7 @@ return array(
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-status/src/class-paths.php'
 	),
 	'Automattic\\Jetpack\\Plugin_Deactivation\\Deactivation_Handler' => array(
-		'version' => '0.4.3.0',
+		'version' => '0.4.4.0-alpha1794591893',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugin-deactivation/src/class-deactivation-handler.php'
 	),
 	'Automattic\\Jetpack\\Redirect' => array(
