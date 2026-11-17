@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
 - Connection: Show connection owner names containing characters like & correctly.
+- Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 
 ## 0.10.0 - 2026-10-14
 ### Added
