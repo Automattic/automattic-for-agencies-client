@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Keep a Safe Mode screen left open, for example in another tab, from disconnecting a site that is no longer in Safe Mode.
 - Connection: Keep the progress indicator on screen after clicking Restore Connection until the redirect to WordPress.com.
 - Connection: Restore the connect button and explain what went wrong when the connection to WordPress.com fails to start.
+- Connection: Show clearer messages when the connect request to your site fails, for example because its REST API is disabled or a PHP error broke the response.
 - Connection: Show connection owner names containing characters like & correctly.
 - Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
